@@ -2,7 +2,7 @@
 *Online multiplayer drawing game*
 
 <p>
-TeamDraw is a online multiplayer drawing game inspired by a game we played at school as kids.
+TeamDraw is a online multiplayer drawing game inspired by a game I played as a kid.
 </p>
 <p align="center">
 <img width="75%" height="75%" src="https://creatoratnight.com/github/td01.png">
