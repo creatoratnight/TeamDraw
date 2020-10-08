@@ -1,4 +1,4 @@
-# TeamDraw (WIP)
+# TeamDraw
 *Online multiplayer drawing game*
 
 <p>
